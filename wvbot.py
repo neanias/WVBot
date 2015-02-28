@@ -22,7 +22,7 @@ volunteering_regexes = [
 
 listing_regexes = [
     r'^ *what have i (volunteered for|agreed to|let myself in for|got myself in ?to)',
-    r'^ *(oh,? )? for (fuck|pete\'?s|christ\'?s) sake',
+    r'^ *(oh,? )?for (fucks|pete\'?s|christ\'?s) sake',
     r'^ *omgwtflol'
 ]
 
